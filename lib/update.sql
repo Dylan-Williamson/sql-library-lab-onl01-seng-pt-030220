@@ -1,2 +1,3 @@
 UPDATE characters
-SET 
+SET "Martian"
+WHERE species
